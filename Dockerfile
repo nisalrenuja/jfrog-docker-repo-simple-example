@@ -1,4 +1,4 @@
-FROM nisal.jfrog.io/alpine:3.11.5
+FROM nisal.jfrog.io/docker:3.11.5
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
